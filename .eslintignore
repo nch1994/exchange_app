@@ -1,0 +1,8 @@
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/public/
+/src/page/trading/api/*.js
+/src/page/trading/TVChart/*.js
