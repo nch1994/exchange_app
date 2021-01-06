@@ -12,7 +12,7 @@
     "husky:update": "node node_modules/husky/lib/installer/bin install"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.12.0",
     "vant": "^2.2.9",
     "vue": "^2.6.0",
